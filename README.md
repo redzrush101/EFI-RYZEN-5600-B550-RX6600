@@ -19,12 +19,12 @@ It's just my complete EFI for my hardware based on my experiments, please refer 
 
 | **Category** | **Component**                                                                    |
 | ------------ | -------------------------------------------------------------------------------- |
-| **CPU**      | 3,5 GHz AMD Ryzen 5 5600 6-Core Processor                                        |
-| **GPU**      | ASROCK Challenger - AMD Radeon RX 6600 8 GB Challenger 8GB                       |
-| **RAM**      | 16GB GLOWAY DDR4 3200MHZ (XMP)                                                   |
+| **CPU**      | 3,4 GHz AMD Ryzen 7 5700x 8-Core Processor                                        |
+| **GPU**      | ASROCK Challenger - AMD Radeon RX 6700 8 GB Challenger 8GB                       |
+| **RAM**      | 32GB GSKILL DDR4 3200MHZ (XMP)                                                   |
 | **CHIPSET**  | B550M DS3H [Gigabyte](https://www.gigabyte.com/Motherboard/B550M-DS3H-rev-1x#kf) |
-| **SSD**      | 120GB ADATA SATA                                                                 |
-| **Wi-Fi/BT** | Fenvi FV-HB1200                                                                  |
+| **SSD**      | 1TB Western Digital SSD                                                          |
+| **Wi-Fi/BT** | Archer T3U Plus                                                                  |
 | **Ethernet** | Realtek RTL8111                                                                  |
 | **Audio**    | Realtek ALC897 (layout-id=12)                                                    |
 
@@ -37,11 +37,10 @@ It's just my complete EFI for my hardware based on my experiments, please refer 
 - [x] Bluetooth.
 - [x] USB ports.
 - [x] HDMI video & audio output.
-- [x] Ethernet.
+- [x] Ethernet. (Idk should 100% work)
 - [x] Audio (Internal speakers, 3.5mm headphone jack).
 - [x] Internal microphone.
 - [x] VGA WebCam.
-- [x] AirDrop & Handoff.
 - [x] iCloud & App Store.
 - [x] iMessage & FaceTime.
 
@@ -49,8 +48,6 @@ It's just my complete EFI for my hardware based on my experiments, please refer 
 
 ~~Wi-fi, Bluetooth and AirDrop are not working since i don't have yet a native Wi-fi card and my motherboard doesn't have one.
 Currently using with wired network on my ethernet port~~
-
-All features are working, just added a Fenvi FV-HB1200 board. Now we have Wi-Fi, Bluetooth (usb mapped), AirDrop and others.
 
 ## :closed_lock_with_key: SMBIOS
 
@@ -70,9 +67,8 @@ If you don't have this on your BIOS you will need to adjust the config.plist, re
 
 <img src="assets/config-b550m-ds3h-rev1.0-biosF15.jpg" style="width: 800px; height: auto;">
 
-_Currently i'm running the F18 BIOS version and works great_
-## Credits:
 
+## Credits:
 [**Gabriel Luchina**](https://luchina.com.br)
 
 [**AMD-OSX**](https://github.com/AMD-OSX/AMD_Vanilla)
