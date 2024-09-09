@@ -1,4 +1,4 @@
-# EFI-RYZEN-B550-RX6600
+# EFI-RYZEN-B550-RX6700XT
 
 :information_source: **The current version is fully macOS Monterey, Ventura and Sonoma compatible.**
 OpenCore, drivers, and kexts are always up to date!
@@ -20,7 +20,7 @@ It's just my complete EFI for my hardware based on my experiments, please refer 
 | **Category** | **Component**                                                                    |
 | ------------ | -------------------------------------------------------------------------------- |
 | **CPU**      | 3,4 GHz AMD Ryzen 7 5700x 8-Core Processor                                        |
-| **GPU**      | ASROCK Challenger - AMD Radeon RX 6700 8 GB Challenger 8GB                       |
+| **GPU**      | Powerdevil Fighter - AMD Radeon RX 6700XT 12GB                       |
 | **RAM**      | 32GB GSKILL DDR4 3200MHZ (XMP)                                                   |
 | **CHIPSET**  | B550M DS3H [Gigabyte](https://www.gigabyte.com/Motherboard/B550M-DS3H-rev-1x#kf) |
 | **SSD**      | 1TB Western Digital SSD                                                          |
