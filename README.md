@@ -1,6 +1,6 @@
 # EFI-RYZEN-B550-RX6600
 
-:information_source: **The current version is fully macOS Monterey and Ventura compatible.**
+:information_source: **The current version is fully macOS Monterey, Ventura and Sonoma compatible.**
 OpenCore, drivers, and kexts are always up to date!
 
 <br/>
